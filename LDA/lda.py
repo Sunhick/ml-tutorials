@@ -23,5 +23,5 @@ plt.show()
 # useful links: 
 #   http://sebastianraschka.com/Articles/2014_python_lda.html
 #   http://people.revoledu.com/kardi/tutorial/LDA/index.html
-#
+#   https://www.youtube.com/watch?v=azXCzI57Yfc
 #
