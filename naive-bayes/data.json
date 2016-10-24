@@ -1,0 +1,18 @@
+[
+    {
+        "message": "viagra meet",
+        "type" : "spam"
+    },
+    {
+        "message": "meet",
+        "type": "ham"
+    },
+    {
+        "message": "meet",
+        "type": "ham"
+    },
+    {
+        "message": "viagra",
+        "type": "ham"  
+    }
+]
