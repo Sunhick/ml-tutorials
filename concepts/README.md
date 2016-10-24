@@ -1,0 +1,5 @@
+* [Neural networks vs Deep learning](https://www.quora.com/How-does-deep-learning-work-and-how-is-it-different-from-normal-neural-networks-applied-with-SVM)
+* [List of all machine learning techniques](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [Difference between Convolutional neural networks, Restricted Boltzmann machine and Auto-encoders](http://stats.stackexchange.com/questions/114385/what-is-the-difference-between-convolutional-neural-networks-restricted-boltzma)
+* [Difference between Neural networks and Deep belief networks](http://stats.stackexchange.com/questions/51273/what-is-the-difference-between-a-neural-network-and-a-deep-belief-network)
+* [Discriminative models vs Generative models](http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm)
