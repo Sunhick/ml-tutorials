@@ -3,3 +3,5 @@
 * [Difference between Convolutional neural networks, Restricted Boltzmann machine and Auto-encoders](http://stats.stackexchange.com/questions/114385/what-is-the-difference-between-convolutional-neural-networks-restricted-boltzma)
 * [Difference between Neural networks and Deep belief networks](http://stats.stackexchange.com/questions/51273/what-is-the-difference-between-a-neural-network-and-a-deep-belief-network)
 * [Discriminative models vs Generative models](http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm)
+* [Linear discriminant analysis](http://sebastianraschka.com/Articles/2014_python_lda.html)
+* [PCA vs LDA](http://www.uta.fi/sis/mtt/mttts17/drv_2016_lecture3.pdf)
