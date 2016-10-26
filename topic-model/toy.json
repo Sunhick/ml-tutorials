@@ -1,0 +1,26 @@
+[
+    {
+        "doc": "dog cat cat pig"
+    },
+    {
+        "doc": "Computer disks, SDD are expensive. laptop disks are cheaper"
+    },
+    {
+        "doc": "iron iron pig iron"
+    },
+    {
+        "doc": "hamburger dog hamburger"
+    },
+    {
+        "doc": "dog cat cat dog hamburger"
+    },
+    {
+        "doc": "breakfast eggs milk"
+    },
+    {
+        "doc": "eggs milk hamburger"
+    },
+    {
+        "doc": "hard disks and SDD disks are slower. Laptop should upgrade to SDD"
+    }
+]
