@@ -7,3 +7,4 @@
 * [PCA vs LDA](http://www.uta.fi/sis/mtt/mttts17/drv_2016_lecture3.pdf)
 
 * [scikit-learn examples](http://scikit-learn.org/stable/auto_examples/)
+* [Infinite Mixture Models with Nonparametric Bayes and the Dirichlet Process](http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/)
