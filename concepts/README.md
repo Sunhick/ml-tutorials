@@ -5,3 +5,4 @@
 * [Discriminative models vs Generative models](http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm)
 * [Linear discriminant analysis](http://sebastianraschka.com/Articles/2014_python_lda.html)
 * [PCA vs LDA](http://www.uta.fi/sis/mtt/mttts17/drv_2016_lecture3.pdf)
+* [Infinite Mixture Models with Nonparametric Bayes and the Dirichlet Process](http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/)
