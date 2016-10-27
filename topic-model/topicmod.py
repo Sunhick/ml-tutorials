@@ -5,7 +5,7 @@ from sklearn.decomposition import NMF, LatentDirichletAllocation
 from nltk.stem.snowball import SnowballStemmer
 
 n_samples = 6
-n_features = 12
+n_features = 13
 n_topics = 3
 n_top_words = 3
 
@@ -65,3 +65,8 @@ print("----------- Topic classification --------------")
 for doc in corpus:
     print(model.transform(tf_vectorizer.transform((doc, ))))
 print("-----------------------------------------------")
+
+# predict
+document = "i eat eggs and bacon for breakfast!"
+print("cluster topic for : ", document)
+print(model.transform(tf_vectorizer.transform((document,))))
