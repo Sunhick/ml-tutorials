@@ -1,12 +1,12 @@
 [
     {
-        "doc": "apple orange"
+        "doc": "apple orange peach"
     },
     {
-        "doc": "apple banana"
+        "doc": "apple peach banana"
     },
     {
-        "doc": "banana orange"
+        "doc": "banana apple orange"
     },
     {
         "doc": "tiger cat"
@@ -18,10 +18,10 @@
         "doc": "dog tiger"
     },
     {
-        "doc": "eggs milk cookie"
+        "doc": "eggs bacon bread"
     },
     {
-        "doc": "eggs eat breakfast cookie"
+        "doc": "eggs eat breakfast"
     },
     {
         "doc": "eggs breakfast bacon"
