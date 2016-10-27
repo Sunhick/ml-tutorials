@@ -5,6 +5,6 @@
 * [Discriminative models vs Generative models](http://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm)
 * [Linear discriminant analysis](http://sebastianraschka.com/Articles/2014_python_lda.html)
 * [PCA vs LDA](http://www.uta.fi/sis/mtt/mttts17/drv_2016_lecture3.pdf)
-
 * [scikit-learn examples](http://scikit-learn.org/stable/auto_examples/)
 * [Infinite Mixture Models with Nonparametric Bayes and the Dirichlet Process](http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/)
+* [Introduction to Latent dirichlet Allocation](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
