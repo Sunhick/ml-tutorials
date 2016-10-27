@@ -1,26 +1,32 @@
 [
     {
-        "doc": "dog cat cat pig"
+        "doc": "apple orange"
     },
     {
-        "doc": "Computer disks, SDD are expensive. laptop disks are cheaper"
+        "doc": "apple banana"
     },
     {
-        "doc": "iron iron pig iron"
+        "doc": "banana orange"
     },
     {
-        "doc": "hamburger dog hamburger"
+        "doc": "tiger cat"
     },
     {
-        "doc": "dog cat cat dog hamburger"
+        "doc": "cat dog"
     },
     {
-        "doc": "breakfast eggs milk"
+        "doc": "dog tiger"
     },
     {
-        "doc": "eggs milk hamburger"
+        "doc": "eggs milk cookie"
     },
     {
-        "doc": "hard disks and SDD disks are slower. Laptop should upgrade to SDD"
+        "doc": "eggs breakfast cookie"
+    },
+    {
+        "doc": "eggs breakfast bacon"
+    },
+    {
+        "doc": "bacon breakfast bread"
     }
 ]

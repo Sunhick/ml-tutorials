@@ -4,9 +4,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 from nltk.stem.snowball import SnowballStemmer
 
-n_samples = 4
-n_features = 5
-n_topics = 4
+n_samples = 6
+n_features = 12
+n_topics = 3
 n_top_words = 3
 
 stemmer = SnowballStemmer("english", ignore_stopwords=True)
@@ -42,9 +42,9 @@ for e in data:
 #                     for i in topic.argsort()[:-n_top_words - 1:-1]]))
 
 # LDA
-tf_vectorizer = CountVectorizer(max_features=n_features,
-                                stop_words='english'
-                                )
+tf_vectorizer = CountVectorizer(
+    max_features=n_features,
+    stop_words='english')
 tf = tf_vectorizer.fit_transform(corpus)
 tf_feature_names = tf_vectorizer.get_feature_names()
 print tf_feature_names
