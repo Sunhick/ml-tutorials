@@ -1,12 +1,8 @@
 ## Books
 * [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
 
----
-
 ## Quick links
 * [FastML](http://fastml.com/)
-
----
 
 ## Concepts
 * [Neural networks vs Deep learning](https://www.quora.com/How-does-deep-learning-work-and-how-is-it-different-from-normal-neural-networks-applied-with-SVM)
