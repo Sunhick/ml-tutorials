@@ -2,8 +2,10 @@
 * [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ---
+
 ## Quick links
 * [FastML](http://fastml.com/)
+
 ---
 
 ## Concepts
