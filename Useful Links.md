@@ -15,6 +15,7 @@ My Lecture Slides: I will download and share it in this. Its secured so.
 statistics
 * http://vassarstats.net/textbook/
 
+---
 
 An Overview of the Second Chapter of Deep Learning and Exercise:
 
