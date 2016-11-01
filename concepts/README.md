@@ -3,6 +3,7 @@
 
 ## Quick links
 * [FastML](http://fastml.com/)
+* [Frequentism-and-Bayesianism](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/)
 
 ## Concepts
 * [Neural networks vs Deep learning](https://www.quora.com/How-does-deep-learning-work-and-how-is-it-different-from-normal-neural-networks-applied-with-SVM)
