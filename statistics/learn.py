@@ -29,9 +29,15 @@ def main(args):
 
     # binom dist.
     print("=== Binom dist. ===")
-    rv = stats.binom(6, 1/6)
-    for i, x in enumerate(range(1, 6)):
+    rv = stats.binom(10, .25)
+    for i, x in enumerate(range(0, 10)):
         print(i, rv.pmf(x))
+
+    # Poisson dist.
+    print("=== Poisson dist. ===")
+    rv = stats.poisson(1.5*4)
+    for i, x in enumerate(range(0, 10)):
+        print(i, rv.pmf(i))
 
 
 if __name__ == "__main__":
